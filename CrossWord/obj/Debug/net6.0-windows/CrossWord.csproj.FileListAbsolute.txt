@@ -1,0 +1,17 @@
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\bin\Debug\net6.0-windows\CrossWord.exe
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\bin\Debug\net6.0-windows\CrossWord.deps.json
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\bin\Debug\net6.0-windows\CrossWord.runtimeconfig.json
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\bin\Debug\net6.0-windows\CrossWord.dll
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\bin\Debug\net6.0-windows\CrossWord.pdb
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.csproj.AssemblyReference.cache
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.Form1.resources
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.csproj.GenerateResource.cache
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.AssemblyInfoInputs.cache
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.AssemblyInfo.cs
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.dll
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\refint\CrossWord.dll
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.pdb
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\CrossWord.genruntimeconfig.cache
+C:\Users\Dominik Vinš\source\repos\CrossWord\CrossWord\obj\Debug\net6.0-windows\ref\CrossWord.dll
